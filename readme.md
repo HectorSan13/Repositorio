@@ -1,2 +1,4 @@
 # main page
-## short cuts
+## basic commands
+
+-git init
